@@ -1,0 +1,9 @@
+#Create ship with first compartment 1 and second compartment 2
+#Failure rate az 0
+GT4500,1,0,2,0
+#Kiloni mindkettot sikerrel
+TORPEDO,ALL
+#Kiloni mindketto, csak a masodikban van, de siker kellene legyen
+TORPEDO,ALL
+#Kiloni mindketto, mindketto ures, ezert FAIL
+TORPEDO,ALL

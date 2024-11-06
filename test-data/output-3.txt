@@ -1,0 +1,4 @@
+SUCCESS # <- GT4500
+SUCCESS # <- Mindkettobol kilovi jol
+SUCCESS # <- Csak a masodikban van, kilovi jol
+FAIL # <- Mindketto ures, ezert nem sikerul kilonie
