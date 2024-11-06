@@ -1,0 +1,4 @@
+SUCCESS # <- GT4500
+SUCCESS # <- TORPEDO elso
+SUCCESS # <- TORPEDO megint elso, mivel masodik ures
+FAIL # <- TORPEDO mindket resze ures, ezert FAIL

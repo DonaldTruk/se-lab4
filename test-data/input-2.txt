@@ -1,0 +1,13 @@
+#Create ship with first compartment 2 and second compartment empty 
+#Failure rate is 0
+GT4500,2,0,2,1
+#Fire first compartment
+TORPEDO,SINGLE
+#Fire second compartment, but it fails because of failure rate
+TORPEDO,SINGLE
+#Try to fire again first
+TORPEDO,SINGLE
+#Fire second compartment, fails again because of 100% failure rate
+TORPEDO,SINGLE
+#Try to fire again, fail because only the failing one remains
+TORPEDO,SINGLE

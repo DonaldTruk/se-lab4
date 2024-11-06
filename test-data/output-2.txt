@@ -1,0 +1,6 @@
+SUCCESS # <- GT4500
+SUCCESS # <- elso sikeresen kilovi
+FAIL # <- masodik nem tudja kiloni mivel failure rate 100%
+SUCCESS # <- elsot megint jol kilovi
+FAIL # <- masodik megint nem tudja kiloni mivel failure rate 100%
+FAIL # <- mostmar meg csak a masodikat hivja mivel elso ures, de az garantaltan fail-el
